@@ -1,4 +1,4 @@
-  User Management System Project
+  <b>User Management System Project</b>
   
 •	used spring boot framework, Java programming language, OOPs, and POSTMAN for API Testing
 
